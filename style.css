@@ -2,8 +2,9 @@ header{
     background-color: #383d58;
     color:aliceblue;
 }
-.cabeçalho-imagem{
-    width: 20%;
+*{
+    margin: 0;
+    padding: 0;
 }
 .cabeçalho{
     background-color: #383d58;
@@ -12,6 +13,9 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+}
+cabeçalho-imagem{
+    width: 20%;
 }
 .cabeçalho-lista-item{
     display: inline-block;
