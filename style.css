@@ -4,4 +4,8 @@ header{
 }
 .cabeçalho-imagem{
     width: 20%;
+    background-color: #383d58;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
 }
