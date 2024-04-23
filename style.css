@@ -14,7 +14,7 @@ header{
     align-items: center;
     padding: 24px 0;
 }
-cabeçalho-imagem{
+.cabeçalho-imagem{
     width: 20%;
 }
 .cabeçalho-lista-item{
