@@ -1,5 +1,5 @@
 header{
-    background-color: #dda9f1;
+    background-color: #424E61;
     color:aliceblue;
 }
 *{
@@ -7,7 +7,7 @@ header{
     padding: 0;
 }
 .cabeçalho{
-    background-color: #dda9f1;
+    background-color: #424E61;
     background-color: ;
     color: aliceblue;
     display: flex;
